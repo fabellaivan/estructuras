@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619217982 source:c:\users\fabellaiva\desktop\proyectos\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
